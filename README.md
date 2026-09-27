@@ -10,7 +10,7 @@ WeatherWise allows users to search for a city and view current weather informati
 ## 🌐 Live Demo
 
 🚀 **WeatherWise — Live Website:**  
-(https://github.com/thakursejal/thiranex-Weather-Dashboard)
+https://thakursejal.github.io/thiranex-Weather-Dashboard/
 
 ---
 
